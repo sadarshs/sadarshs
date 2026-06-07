@@ -1,28 +1,26 @@
 <div align="center">
 
-![header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SADARSH&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20·%20MERN%20Developer%20·%20Building%20Real-World%20AI%20Solutions&descAlignY=60&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SADARSH&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%C2%B7%20MERN%20Developer%20%C2%B7%20Building%20Real-World%20AI%20Solutions&descAlignY=60&descSize=16))
+<img src="https://raw.githubusercontent.com/sadarshs/sadarshs/main/header.svg" width="100%" alt="Sadarsh Header"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadarsh-s-256b4926a)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-f97316?style=for-the-badge&logo=firefox&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/GMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-c13584?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
-<br>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sadarshs&style=for-the-badge&color=00d9f5&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/sadarshs?style=for-the-badge&color=a78bfa&label=FOLLOWERS)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### ✦ Where Intelligence Meets Code ✦
 
-</div>
-
 ---
+
+</div>
 
 ## 👾 Who Am I?
 
@@ -84,8 +82,6 @@ sadarsh = {
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 *✦ Always building. Always learning. ✦*
 

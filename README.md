@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SADARSH&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20·%20MERN%20Developer%20·%20Building%20Real-World%20AI%20Solutions&descAlignY=60&descSize=16)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SADARSH&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20·%20MERN%20Developer%20·%20Building%20Real-World%20AI%20Solutions&descAlignY=60&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SADARSH&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%C2%B7%20MERN%20Developer%20%C2%B7%20Building%20Real-World%20AI%20Solutions&descAlignY=60&descSize=16))
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadarsh-s-256b4926a)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-f97316?style=for-the-badge&logo=firefox&logoColor=white)](#)

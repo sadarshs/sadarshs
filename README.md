@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sadarshs/sadarshs/main/header.svg" width="100%" alt="Sadarsh Header"/>
+# SADARSH
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D9F5&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+%26+Data+Science+Enthusiast+%E2%9A%A1;MERN+Developer+%7C+Building+Real-World+AI)](https://git.io/typing-svg)
 
 <br/>
 

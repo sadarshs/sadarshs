@@ -73,11 +73,13 @@ sadarsh = {
 
 <div align="center">
 
-![Sadarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadarshs&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadarshs&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadarshs&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadarshs&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadarshs&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sadarshs&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadarshs&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadarshs&theme=tokyonight&utcOffset=+5.5)
 
 </div>
 
